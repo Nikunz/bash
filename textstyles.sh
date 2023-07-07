@@ -6,6 +6,6 @@ info=$(tput setaf 2)
 error=$(tput setaf 160)
 warn=$(tput setaf 214)
 reset=$(tput sgr0)
-echo "${info}INFO${reset}: This is an ${bold}info${reset} message"
-echo "${error}ERROR${reset}: This is an ${underline}error${reset} message"
-echo "${warn}WARN${reset}: This is a ${italic}warning${reset} message"
+echo "${info}INFO${reset}: This is an ${bold}linuz is a good language${reset} message"
+echo "${error}ERROR${reset}: This is an ${underline}powershell is bad but needed${reset} message"
+echo "${warn}WARN${reset}: This is a ${italic}git is the best that there is ${reset} message"
